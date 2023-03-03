@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Open-Assistant-Model-Comparer/static/css/main.af98b380.css",
+    "main.js": "/Open-Assistant-Model-Comparer/static/js/main.217048fa.js",
+    "static/js/787.838ba573.chunk.js": "/Open-Assistant-Model-Comparer/static/js/787.838ba573.chunk.js",
+    "index.html": "/Open-Assistant-Model-Comparer/index.html",
+    "main.af98b380.css.map": "/Open-Assistant-Model-Comparer/static/css/main.af98b380.css.map",
+    "main.217048fa.js.map": "/Open-Assistant-Model-Comparer/static/js/main.217048fa.js.map",
+    "787.838ba573.chunk.js.map": "/Open-Assistant-Model-Comparer/static/js/787.838ba573.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af98b380.css",
+    "static/js/main.217048fa.js"
+  ]
+}
